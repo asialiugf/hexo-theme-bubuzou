@@ -55,5 +55,6 @@ hexo里每个不同的主题所依赖的包都不尽相同。安装的默认主�
 ## 其它参考
 - 使用hexo+github搭建免费个人博客详细教程 (http://blog.haoji.me/build-blog-website-by-hexo-github.html)
 - hexo网站 (https://hexo.io/themes/)
+https://hexo.io/zh-cn/docs/deployment.html
 
 
